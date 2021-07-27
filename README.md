@@ -16,8 +16,8 @@
    - Transform the original data
 
 -K-Means Clustering
-    - Determine the specify the number of cluster (k)
-    - Clustering the data
+   - Determine the specify the number of cluster (k)
+   - Clustering the data
 
 
 
