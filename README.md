@@ -6,7 +6,7 @@
 - Library : Tidyverse, ggplot2, dplyr, cluster, factoextra
 - Dataset : Iris dataset
 
-#Flow concept in code
+# Flow concept in code
  -Principal component analysis(PCA)
    - Scalling data
    - Calculate Covariance Matrix
@@ -14,6 +14,7 @@
    - Sort Eigenvalues and Eigenvector
    - Pick top-2 or top-3 (or any amount of Principal Components that you want) eigenvalues
    - Transform the original data
+
 
 - K-Means Clustering
     - Determine the specify the number of cluster (k)
