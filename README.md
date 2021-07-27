@@ -15,8 +15,7 @@
    - Pick top-2 or top-3 (or any amount of Principal Components that you want) eigenvalues
    - Transform the original data
 
-
-- K-Means Clustering
+-K-Means Clustering
     - Determine the specify the number of cluster (k)
     - Clustering the data
 
